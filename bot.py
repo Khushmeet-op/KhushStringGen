@@ -71,8 +71,8 @@ async def main():
                     StringSession(),
                     api_id=APP_ID,
                     api_hash=API_HASH,
-                    device_model="@GetUniBorgBot TUI",
-                    system_version="@UniBorg",
+                    device_model="@Khushmeet1 TUI",
+                    system_version="1.0",
                     app_version="9.6.9",
                     lang_code="ml"
                 )
